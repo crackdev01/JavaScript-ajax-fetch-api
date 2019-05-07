@@ -27,6 +27,7 @@ Files: index.v4 + app.v4.js
 
 6. Lesson 6:<br>
 Custom HTTP Library (Ajax With Callbacks).<br>
+Files: index.v5 + app.v5.js + app.v5.1.js
 
 7. Lesson 7:<br>
 ES6 Promises.<br>
