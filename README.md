@@ -4,44 +4,44 @@ Started Coding: December 2018.
 
 Udemy course, practice with JavaScript AJAX, Fetch, API. 
 
-1. Lesson 1:
-XHR Object Methods & Working With Text.
+1. Lesson 1:<br>
+XHR Object Methods & Working With Text.<br>
 Files: index.v1 + app.v1.js:
 
 
-2. Lesson 2:
-Working With Ajax & JSON.
+2. Lesson 2:<br>
+Working With Ajax & JSON.<br>
 Files: index.v2 + app.v2.js + customer.json + customers.json
 
-3. Lesson 3:
-Data From an External API - Chuck Norris Project.
+3. Lesson 3:<br>
+Data From an External API - Chuck Norris Project.<br>
 
-4. Lesson 4:
-Rest APIs & HTTP Requests.
+4. Lesson 4:<br>
+Rest APIs & HTTP Requests.<br>
 
-5. Lesson 5:
-Callback Functions.
+5. Lesson 5:<br>
+Callback Functions.<br>
 
-6. Lesson 6:
-Custom HTTP Library (Ajax With Callbacks).
+6. Lesson 6:<br>
+Custom HTTP Library (Ajax With Callbacks).<br>
 
-7. Lesson 7:
-ES6 Promises.
+7. Lesson 7:<br>
+ES6 Promises.<br>
 
-8. Lesson 8:
-The Fetch API.
+8. Lesson 8:<br>
+The Fetch API.<br>
 
-9. Lesson 9:
-Arrow Functions.
+9. Lesson 9:<br>
+Arrow Functions.<br>
 
-10. Lesson 10:
-Custom HTTP Library (Fetch With Promises).
+10. Lesson 10:<br>
+Custom HTTP Library (Fetch With Promises).<br>
 
-11. Lesson 11:
-Async & Await.
+11. Lesson 11:<br>
+Async & Await.<br>
 
-12. Lesson 12:
-Custom HTTP Library (Fetch With Async Await).
+12. Lesson 12:<br>
+Custom HTTP Library (Fetch With Async Await).<br>
 
 
 
