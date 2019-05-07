@@ -19,9 +19,11 @@ Files: index.v3 + app.v3.js
 
 4. Lesson 4:<br>
 Rest APIs & HTTP Requests.<br>
+Video Lesson
 
 5. Lesson 5:<br>
 Callback Functions.<br>
+Files: index.v4 + app.v4.js
 
 6. Lesson 6:<br>
 Custom HTTP Library (Ajax With Callbacks).<br>
