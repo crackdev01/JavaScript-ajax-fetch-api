@@ -15,6 +15,7 @@ Files: index.v2 + app.v2.js + customer.json + customers.json
 
 3. Lesson 3:<br>
 Data From an External API - Chuck Norris Project.<br>
+Files: index.v3 + app.v3.js
 
 4. Lesson 4:<br>
 Rest APIs & HTTP Requests.<br>
