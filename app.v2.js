@@ -12,7 +12,21 @@ function loadCustomer(e) {
     xhr.onload = function(){
         //check to see if it is a 200 status
         if(this.status === 200) {
-            console.log(this.responseText);
+            //console.log(this.responseText);
+            //Show the output on the HTML:
+            // first we need to parse it as an object else it will be readed as a string and we won't be able to get customer.id or customer.name:
+            const customer = JSON.parse(this.responseText);
+
+            const output = `
+                <ul>
+                    <li>ID: ${customer.id}</li>
+                    <li>Name: ${customer.name}</li>
+                    <li>Company: ${customer.company}</li>
+                    <li>Phone: ${customer.phone}</li>
+                </ul>
+            `;
+
+            document.getElementById('customer').innerHTML = output;
         }
     }
 
