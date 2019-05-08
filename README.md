@@ -43,6 +43,7 @@ Files: index.v8 + index.v8.1 + app.v8.js + app.v8.1.js + text.txt + posts.json
 
 10. Lesson 10:<br>
 Custom HTTP Library (Fetch With Promises).<br>
+Files: index.v9 + app.v9.js + app.v9.1.js
 
 11. Lesson 11:<br>
 Async & Await.<br>
