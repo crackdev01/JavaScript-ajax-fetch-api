@@ -47,6 +47,7 @@ Files: index.v9 + app.v9.js + app.v9.1.js
 
 11. Lesson 11:<br>
 Async & Await.<br>
+Files: index.v10 + app.v10.js
 
 12. Lesson 12:<br>
 Custom HTTP Library (Fetch With Async Await).<br>
