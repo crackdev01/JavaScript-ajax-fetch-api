@@ -35,6 +35,7 @@ Files: index.v6 + app.v6.js
 
 8. Lesson 8:<br>
 The Fetch API.<br>
+Files: index.v7 + app.v7.js + data.txt + posts.json
 
 9. Lesson 9:<br>
 Arrow Functions.<br>
