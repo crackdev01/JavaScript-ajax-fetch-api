@@ -31,6 +31,7 @@ Files: index.v5 + app.v5.js + app.v5.1.js
 
 7. Lesson 7:<br>
 ES6 Promises.<br>
+Files: index.v6 + app.v6.js
 
 8. Lesson 8:<br>
 The Fetch API.<br>
