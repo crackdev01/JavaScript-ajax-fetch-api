@@ -39,6 +39,7 @@ Files: index.v7 + app.v7.js + data.txt + posts.json
 
 9. Lesson 9:<br>
 Arrow Functions.<br>
+Files: index.v8 + index.v8.1 + app.v8.js + app.v8.1.js + text.txt + posts.json
 
 10. Lesson 10:<br>
 Custom HTTP Library (Fetch With Promises).<br>
