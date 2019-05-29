@@ -13,7 +13,7 @@ Files: index.v2 + app.v2.js + customer.json + customers.json
 3. <b>Data From an External API - Chuck Norris Project.</b><br>
 Files: index.v3 + app.v3.js
 
-4. <b>Rest APIs & HTTP Requests.</b><br>
+4. <b>Rest APIs & HTTP Requests.</b><br> 
 Video Lesson
 
 5. <b>Callback Functions.</b><br>
