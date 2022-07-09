@@ -1,9 +1,6 @@
 # JavaScript-ajax-fetch-api
 
 
-- Started Coding: December 2018.
-
-- Udemy course, practice with JavaScript AJAX & Fetch API. 
 
 1. <b>XHR Object Methods & Working With Text.</b><br>
 Files: index.v1 + app.v1.js:
